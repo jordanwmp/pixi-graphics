@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "tcc-gather"
+  },
+  "targets": {
+    "tcc-gather": {
+      "hosting": {
+        "pixijs": [
+          "pixijs-task"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
